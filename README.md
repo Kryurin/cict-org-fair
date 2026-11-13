@@ -1,3 +1,5 @@
+Live URL of the site: https://kryurin.github.io/cict-org-fair/
+
 # org_fair
 
 A new Flutter project.
